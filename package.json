@@ -1,5 +1,7 @@
 {
   "name": "dailyfetal",
+  "homepage": "https://mohammed-4all.github.io/fetal-movement-tracker",
+
   "private": true,
   "version": "0.0.0",
   "type": "module",
